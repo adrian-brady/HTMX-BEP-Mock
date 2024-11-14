@@ -1,4 +1,4 @@
-# Better Evidence Project Mock using HTMX
+# Better Evidence Project Mock using [HTMX](https://htmx.org/)
 An HTMX mock for the [Better evidence project](https://gmustaging.savepointsoftware.com/#/search) website being remade for DSSD.
 
 ## Running the web server
@@ -23,3 +23,7 @@ Todo:
 - More definitely
 
 For development, I recommend using [Air](https://github.com/air-verse/air), a live reloader for Go apps.
+
+To learn about HTMX, ThePrimeagen has a great intro [course](https://frontendmasters.com/courses/htmx/) on [FrontendMasters](https://frontendmasters.com/)
+
+For inspiration and ideas about what HTMX can do, please see the [HTMX examples](https://htmx.org/examples/)
