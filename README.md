@@ -4,7 +4,7 @@ An HTMX mock for the [Better evidence project](https://gmustaging.savepointsoftw
 ## Running the web server
 To start the web server, run the following command:
 ```bash
-go run .
+go run ./cmd
 ```
 
 This will start the Echo web server on port `8080`.
